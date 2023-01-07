@@ -1,0 +1,15 @@
+{
+    "name": "jiaorem/ipt10_strategy_pattern",
+    "autoload": {
+        "psr-4": {
+            "Ecommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Micoh Yabut",
+            "email": "yabut.micohjomarie@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
